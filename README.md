@@ -23,14 +23,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/ankur konan" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a> </p>
 
 ● 🌱 I’m currently learning **Data Structures & Algorithm**
-
 ● 💬 Ask me about **python, java, c++, php, javascript**
-
 ● 📫 How to reach me **ankurkonan@gmail.com**
-● 👯 I’m looking to collaborate on Github
-● 💬 Ask me about anything
-● ⚡ I wil become the best software engineeer
-
+● 👯 I’m looking to collaborate on Github**
+● 💬 Ask me about anything**
+● ⚡ I wil become the best software engineeer**
 ● ⚡ Fun fact **I am addicted to learn new things**
 
 <h3 align="left">Connect with me:</h3>
