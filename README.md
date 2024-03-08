@@ -23,15 +23,21 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ankur konan" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a> </p>
 
-<h4>🌱 I’m currently learning **Data Structures & Algorithm** </h4>
-<h4>💬 Ask me about **python, java, c++, php, javascript** </h4>
-<h4>📫 How to reach me **ankurkonan@gmail.com** </h4>
-<h4>👯 I’m looking to collaborate on **Github** </h4>
-<h4>💬 Ask me about **anything** </h4>
-<h4>⚡ I wil become the best **software engineeer** </h4>
-<h4>⚡ Fun fact **I am addicted to learn new things** </h4>
+<h3>🌱 I’m currently learning **Data Structures & Algorithm** </h3>
+<h3>💬 Ask me about **python, java, c++, php, javascript** </h3>
+<h3>📫 How to reach me **ankurkonan@gmail.com** </h3>
+<h3>👯 I’m looking to collaborate on **Github** </h3>
+<h3>💬 Ask me about **anything** </h3>
+<h3>⚡ I wil become the best **software engineeer** </h3>
+<h3>⚡ Fun fact **I am addicted to learn new things** </h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <p align="left">
 <a href="https://twitter.com/ankur konan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur konan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankur konan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur konan" height="30" width="40" /></a>
