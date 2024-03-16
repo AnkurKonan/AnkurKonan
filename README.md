@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://www.linkedin.com/in/ankur-konan-084701287/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <p align="left">
 <a href="https://twitter.com/ankur konan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur konan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankur konan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur konan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankur-konan-084701287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur konan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
