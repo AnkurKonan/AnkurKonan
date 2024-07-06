@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=red&style=flat-square" alt="ankurkonan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankur konan" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a> </p>
+<p align="left"> <a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a> </p>
 
 <h3>🌱 I’m currently learning **Data Structures & Algorithm** </h3>
 <h3>💬 Ask me about **python, java, c++, php, javascript** </h3>
