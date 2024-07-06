@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 <h3>⚡ Fun fact **I am addicted to learn new things** </h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://x.com/AnkurKonan2004">
+  <a href="https://x.com/AnkurKonan2004">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/ankur-konan-084701287/L">
+  <a href="https://www.linkedin.com/in/ankur-konan-084701287/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <p align="left">
