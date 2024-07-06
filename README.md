@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <h1 align="center">Hi 👋, I'm Ankur konan</h1>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
