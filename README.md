@@ -42,13 +42,21 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ankur-konan-084701287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur konan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming & Markup Languages:</h3>
+<h3 align="left">Programming & Markup & Scripting Languages:</h3>
 <p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,arduino,bash,php," />
   </a></p>
 <h3 align="left">Tools & IDEs:</h3>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,idea,arduino,androidstudio" />
+  </a></p>
+<h3 align="left">Editing Tools:</h3>
+<p align="left"> <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a></p>
+<h3 align="left">Operating System:</h3>
+<p align="left"> <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows" />
   </a></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurkonan&show_icons=true&locale=en&theme=algolia" icons=true alt="ankurkonan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkonan&theme=algolia" alt="ankurkonan" icons=true/></p>
