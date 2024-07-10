@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a>
 <div class="badge-container" style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=red&style=flat-square" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues/{username}/{repo-name}.svg" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg" />
-        <img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg" />
-        <img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg" />
+        <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=ff0000&style=flat-square" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues/{username}/{repo-name}.svg?style=flat-square&color=blue" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg?style=flat-square&color=green" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg?style=flat-square&color=yellow" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg?style=flat-square&color=purple" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg?style=flat-square&color=pink" />
+        <img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg?style=flat-square&color=cyan" />
+        <img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg?style=flat-square&color=orange" />
 </div>
 
 <h3>🌱 I’m currently learning **Data Structures & Algorithm** </h3>
@@ -80,9 +80,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
 <br>
