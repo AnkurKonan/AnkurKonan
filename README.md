@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<h3  align="left">Stats</h3>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ankurkonan&theme=algolia"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurkonan&show_icons=true&locale=en&theme=algolia" icons=true alt="ankurkonan" width=500px/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkonan&theme=algolia" alt="ankurkonan" icons=true width=500px/></p>
