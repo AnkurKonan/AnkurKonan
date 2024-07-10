@@ -29,12 +29,13 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg?style=flat-square&color=orange" />
 </div>
 
-<h3>🌱 I’m currently learning **Data Structures & Algorithm** </h3>
-<h3>💬 Ask me about **python, java, c++, php, javascript** </h3>
-<h3>📫 How to reach me **ankurkonan@gmail.com** </h3>
-<h3>👯 I’m looking to collaborate on **Github** </h3>
-<h3>💬 Ask me about **anything** </h3>
-<h3>⚡ I wil become the best **software engineeer** </h3>
+<h3>⚡ I’m currently learning **Data Structures & Algorithm** </h3>
+<h3>⚡ Ask me about **python, java, c++, php, javascript** </h3>
+<h3>⚡ How to reach me **ankurkonan@gmail.com** </h3>
+<h3>⚡ I’m looking to collaborate on **Github** </h3>
+<h3>⚡ Ask me about **anything** </h3>
+<h3>⚡ I will become the best **software engineeer** </h3>
+<h3>⚡ Fun fact **I am self taught programmer (from Youtube, Freecodecamp, HackeRank, Coursera, SoloLearn, etc)** </h3>
 <h3>⚡ Fun fact **I am addicted to learn new things** </h3>
 
 <h3 align="left">Connect with me:</h3>
