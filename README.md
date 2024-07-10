@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ankur konan</h1>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=red&style=flat-square" alt="ankurkonan" /> </p>
-
-<p align="left"> <a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a> </p>
+<a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a>
+<div class="badge-container" style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=red&style=flat-square" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues/{username}/{repo-name}.svg" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg" alt="ankurkonan" />
+        <img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg" />
+        <img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg" />
+        <img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg" />
+</div>
 
 <h3>🌱 I’m currently learning **Data Structures & Algorithm** </h3>
 <h3>💬 Ask me about **python, java, c++, php, javascript** </h3>
@@ -59,6 +66,27 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,apple,windows" />
   </a></p>
+<h3>Tech Stacks</h3>
+
+<div class="badge-container" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</div>
+
+<br>
+
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ankurkonan&theme=algolia"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurkonan&show_icons=true&locale=en&theme=algolia" icons=true alt="ankurkonan" width=500px/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkonan&theme=algolia" alt="ankurkonan" icons=true width=500px/></p>
