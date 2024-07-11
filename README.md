@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ankur-konan-084701287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur konan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming & Markup & Scripting Languages:</h3>
+<h2 align="left">Programming & Markup & Scripting Languages:</h2>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,arduino,bash,php," />
   </a></p>
