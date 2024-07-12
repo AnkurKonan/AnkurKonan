@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 <a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a>
 <div class="badge-container" style="display: flex; flex-wrap: wrap; gap: 10px;">
         <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=ff0000&style=flat-square" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues/{AnkurKonan}/{}.svg?style=flat-square&color=blue" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg?style=flat-square&color=green" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg?style=flat-square&color=yellow" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg?style=flat-square&color=purple" alt="ankurkonan" />
-        <img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg?style=flat-square&color=pink" />
-        <img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg?style=flat-square&color=cyan" />
-        <img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg?style=flat-square&color=orange" />
 </div>
 
 <h3>⚡ I’m currently learning **Data Structures & Algorithm** </h3>
