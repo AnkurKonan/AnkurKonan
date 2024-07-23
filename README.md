@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3>⚡ Ask me about - python, java, c++, php, javascript** </h3>
 <h3>⚡ How to reach me - ankurkonan@gmail.com </h3>
 <h3>⚡ I’m looking to collaborate on - Github </h3>
-<h3>⚡ Ask me about - anything - </h3>
+<h3>⚡ Ask me about - anything </h3>
 <h3>⚡ I will become the best - software engineeer </h3>
 <h3>⚡ Fun fact - I am self taught Programmer (from Youtube, Freecodecamp, HackeRank, Coursera, SoloLearn, etc) </h3>
 <h3>⚡ Fun fact - I am addicted to learn new things </h3>
