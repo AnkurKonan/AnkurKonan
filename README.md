@@ -1,7 +1,7 @@
 ### What's up Everybody 😎
 
 <!--
-**AnkurKonan/AnkurKonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnkurKonan/AnkurKonan** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -104,34 +104,19 @@ Here are some ideas to get you started:
 
 <h2 align="left">Stats</h2>
 
-<!--<div class="container" style="display: flex; gap: 20px;">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ankurkonan&theme=algolia">
-        <div class="column" style="display: flex; flex-direction: column; gap: 20px;">
-                <div class="box top-box" style="height: 100px;"><img align="center" src="https://github-readme-stats.vercel.app/api username=ankurkonan&show_icons=true&locale=en&theme=algolia" icons=true alt="ankurkonan" width=500px/></div>
-                <div class="box bottom-box" style="height: 100px;"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkonan&theme=algolia" alt="ankurkonan" icons=true width=500px/></div>
-        </div>
-        <div class="long-box" style="width: 200px; display: flex; flex-direction: column; justify-content: center;">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkonan&show_icons=true&layout=donut-vertical&theme=algolia" icons=true alt="ankurkonan"/>
-        </div>
-</div> -->
 <div style="display: flex; gap: 20px;">
-    <!-- Column with two stacked boxes -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ankurkonan&theme=algolia">
     <div style="display: flex; flex-direction: column; gap: 20px;">
-        <!-- Top Box -->
-        <div style="max-height: 200px; overflow: hidden;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ankurkonan&show_icons=true&locale=en&theme=algolia" alt="ankurkonan" width="400px" />
+        <div>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurkonan&show_icons=true&locale=en&theme=algolia&card_width=880" alt="ankurkonan"/>
         </div>
-        <!-- Bottom Box -->
-        <div style="max-height: 200px; overflow: hidden;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkonan&theme=algolia" alt="ankurkonan" width="400px" />
+        <div>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkonan&theme=algolia&card_width=880" alt="ankurkonan"/>
         </div>
-    </div>
-    <!-- Long Box -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkonan&show_icons=true&layout=donut-vertical&theme=algolia" alt="ankurkonan" width="300px" />
     </div>
 </div>
-
-
+<div style="width: 800px; display: flex; flex-direction: column; justify-content: center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkonan&layout=compact&theme=algolia&card_width=880" alt="ankurkonan"/>
+</div>
 
 
