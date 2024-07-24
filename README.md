@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3>⚡ Fun fact - I am self taught Programmer (from Youtube, Freecodecamp, HackeRank, Coursera, SoloLearn, etc) </h3>
 <h3>⚡ Fun fact - I am addicted to learn new things </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
   <a href="https://x.com/AnkurKonan2004">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
