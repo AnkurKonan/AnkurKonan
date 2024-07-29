@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <h3>⚡ I’m currently practicing - Data Structures & Algorithm</h3>
-      <h3>⚡ Ask me about - python, java, c++, php, javascript </h3>
+      <h3>⚡ Ask me about - Python, Java, Javascript </h3>
       <h3>⚡ How to reach me - ankurkonan@gmail.com </h3>
       <h3>⚡ I’m looking to collaborate on - Github </h3>
       <h3>⚡ Ask me about - anything </h3>
