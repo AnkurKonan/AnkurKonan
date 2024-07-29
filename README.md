@@ -2,9 +2,7 @@
 
 <!--
 **AnkurKonan/AnkurKonan** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,49 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<h1 align="center">Hi 👋, I'm Ankur Konan</h1>
-
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<!--
-<a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a>
-<div class="badge-container" style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=ff0000&style=flat-square" alt="ankurkonan" />
-</div>
-
-<h3>⚡ I’m currently learning - Data Structures & Algorithm </h3>
-<h3>⚡ Ask me about - python, java, c++, php, javascript** </h3>
-<h3>⚡ How to reach me - ankurkonan@gmail.com </h3>
-<h3>⚡ I’m looking to collaborate on - Github </h3>
-<h3>⚡ Ask me about - anything </h3>
-<h3>⚡ I will become the best - software engineeer </h3>
-<h3>⚡ Fun fact - I am addicted to learn new things </h3>
-<h3>⚡ Fun fact - I am a self taught Programmer (Youtube, Freecodecamp, HackeRank, Coursera, SoloLearn) </h3>-->
 
 <h1 align="center">Hi 👋, I'm Ankur Konan</h1>
-
-<!--<a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a>
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <h3>⚡ I’m currently learning - Data Structures & Algorithm </h3>
-        <h3>⚡ Ask me about - python, java, c++, php, javascript </h3>
-        <h3>⚡ How to reach me - ankurkonan@gmail.com </h3>
-        <h3>⚡ I’m looking to collaborate on - Github </h3>
-        <h3>⚡ Ask me about - anything </h3>
-        <h3>⚡ I will become the best - software engineer </h3>
-        <h3>⚡ Fun fact - I am addicted to learn new things </h3>
-        <h3>⚡ Fun fact - I am a self taught Programmer (Youtube, Freecodecamp, HackeRank, Coursera, SoloLearn) </h3>
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github.com/user-attachments/assets/016ada26-2f4c-44ac-b936-0cd0c412af60" alt="GIF" style="max-width: 100%;">
-    </div>
-</div>-->
-
-<h1 align="center">Hi 👋, I'm Ankur Konan</h1>
-
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <a href="https://x.com/AnkurKonan2004" target="blank"><img src="https://img.shields.io/twitter/follow/ankur konan?logo=twitter&style=for-the-badge" alt="ankur konan" /></a>
 <img src="https://komarev.com/ghpvc/?username=ankurkonan&label=Profile%20views&color=ff0000&style=flat-square" alt="ankurkonan" />
-
 <table>
   <tr>
     <td>
