@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   </a></p>
 <h2 align="left">Tools & IDEs:</h2>
 <p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,pycharm,idea,arduino,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=neovim,vim,pycharm,idea,arduino,androidstudio" />
   </a></p>
 <h2 align="left">UI & UX Design:</h2>
 <p align="left"> <a href="https://skillicons.dev">
